@@ -1,11 +1,3 @@
-function setup() {
-
-}
-
-function draw() {
-  
-}
-
 function drawBoard() {
   let gameBoard = new Array(22);
   for (let i = 0; i < gameBoard.length; i++) {
